@@ -1,5 +1,4 @@
 <h1 align="center">hy 👋 Im Programer In Afghanstan🇦🇫🤚</h1>
-https://www.google.com/search?client=ms-android-verizon&sxsrf=ALiCzsawYoEdRDnXjsCDYspK2kqs59h9WQ:1668047612289&q=animated+coding+gif&tbm=isch&sa=X&ved=2ahUKEwi-i5jLyaL7AhUHXvEDHYgUCk0Q0pQJegQIBhAB&biw=360&bih=612&dpr=3#imgrc=Ih3WtxccUYSzMM
 <h3 align="center">A passionate frontend developer from Afghanstan🇦🇫</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afghanhack001&label=Profile%20views&color=0e75b6&style=flat" alt="afghanhack001" /> </p>
