@@ -1,4 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <h1 align="center">hy 👋 Im Programer In Afghanstan🇦🇫🤚</h1>
+
 <h3 align="center">A passionate frontend developer from Afghanstan🇦🇫</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afghanhack001&label=Profile%20views&color=0e75b6&style=flat" alt="afghanhack001" /> </p>
