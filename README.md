@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile✅;From+In+the+Afghanstan🇦🇫)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF748&width=435&lines=Hello+Wellcome+To+My+Profile;Im+life+in+Afghanstan+%F0%9F%87%A6%F0%9F%87%AB)](https://git.io/typing-svg)
 
 <h1 align="center">hy 👋 Im Programer In Afghanstan🇦🇫🤚</h1>
 
