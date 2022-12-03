@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF748&width=435&lines=HELLO+WELLCOME+TO+MY+PROFILE;IM+LIFE+IN+AFGHANSTAN+%F0%9F%87%A6%F0%9F%87%AB)](https://git.io/typing-svg)
 
+https://myoctocat.com/assets/images/base-octocat.svg
+
 <h1 align="center">hy 👋 Im Programer In Afghanstan🇦🇫🤚</h1>
 
 <h3 align="center">A passionate frontend developer from Afghanstan🇦🇫</h3>
